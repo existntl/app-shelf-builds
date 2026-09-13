@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T04:43:29Z",
+  "generatedAt": "2026-09-13T23:55:14Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -30,6 +30,16 @@
       "updatedAt": "2026-09-04T15:31:07Z",
       "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.pantryfirst-1.0.0.apk",
       "sha256": "c35c128d02f41a51c42a379500e9f8be0c5c5037409406b9205a16ab16fa3cbf",
+      "featured": true
+    },
+    {
+      "packageName": "com.existntl.windwatch",
+      "name": "Windwatch",
+      "description": "Browser launcher for location-based wind forecasts, gusts, and Stageline chart procedures. Opens the private Windwatch site in your phone's browser; internet and site access are required.",
+      "version": "1.0.0",
+      "updatedAt": "2026-09-13T23:55:14Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.windwatch-1.0.0.apk",
+      "sha256": "ed1864062dddd9467746a7fb51ca12b89fcf1557e4850e7afd6ea127069061df",
       "featured": true
     }
   ]
