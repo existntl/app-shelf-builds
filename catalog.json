@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T01:03:45Z",
+  "generatedAt": "2026-09-14T08:12:49Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -35,11 +35,11 @@
     {
       "packageName": "com.existntl.windwatch",
       "name": "Windwatch",
-      "description": "Standalone wind monitor with swipeable Wind, Procedures, On-site, Forecast and Setup pages. Location and stage model share Setup. Automatically checks wind every minute while open. Procedures and manual readings work offline; fresh weather and search need internet. Professional weather use needs an appropriate Open-Meteo plan.",
-      "version": "1.2.1",
-      "updatedAt": "2026-09-14T01:03:45Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.windwatch-1.2.1.apk",
-      "sha256": "752ca41b7e0529a8aa5ca9a652108d4ebacf9f8a084c137e4f98a042d66d6a4d",
+      "description": "Standalone wind monitor with chart-matched wind colors and the original interactive Stageline chart. Applicable procedures stay in color; other sections are grey and tap to enlarge. Swipeable Wind, Procedures, On-site, Forecast and Setup pages. Checks wind every minute while open. Procedures and manual readings work offline; fresh weather and search need internet. Professional weather use needs an appropriate Open-Meteo plan.",
+      "version": "1.3.0",
+      "updatedAt": "2026-09-14T08:12:49Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.windwatch-1.3.0.apk",
+      "sha256": "2bb0162aff1af137685d2b3a9b2d4daad9d3c882843e607d31da0e49d067657d",
       "featured": true
     }
   ]
