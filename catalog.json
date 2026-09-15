@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T06:35:41Z",
+  "generatedAt": "2026-09-15T17:02:02Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -45,11 +45,11 @@
     {
       "packageName": "com.existntl.everstride",
       "name": "Everstride",
-      "description": "Native anime workout preview with six guided sessions, editable training logs, story chapters, spirit upgrades, progress and connected crews. Online saving requires a ChatGPT account with access to Everstride. Account sign-in still needs device verification; Google sign-in is not supported yet.",
-      "version": "1.0.0",
-      "updatedAt": "2026-09-15T06:35:41Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.everstride-1.0.0.apk",
-      "sha256": "4f62069439566fca43014bbd935adc8badec0e567fb03ad409cb305887746415",
+      "description": "Native anime workout preview with six guided sessions, editable logs, story chapters, spirit upgrades, progress and connected crews. Use your ChatGPT email sign-in and existing Everstride access. Version 1.0.1 fixes first-login local timezones. Final phone sign-in verification is still pending.",
+      "version": "1.0.1",
+      "updatedAt": "2026-09-15T17:02:02Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.everstride-1.0.1.apk",
+      "sha256": "415a63a14dc9be047a10a09dbde2bae4d74ba7758c489146fb5d7796e0a9142e",
       "featured": true
     }
   ]
