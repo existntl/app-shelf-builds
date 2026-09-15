@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T08:54:30Z",
+  "generatedAt": "2026-09-15T06:35:41Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -40,6 +40,16 @@
       "updatedAt": "2026-09-14T08:54:30Z",
       "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.windwatch-1.3.1.apk",
       "sha256": "6197167d8581dbaedb089579a879a180a08c6926dfb8097899192e6eb409dfb3",
+      "featured": true
+    },
+    {
+      "packageName": "com.existntl.everstride",
+      "name": "Everstride",
+      "description": "Native anime workout preview with six guided sessions, editable training logs, story chapters, spirit upgrades, progress and connected crews. Online saving requires a ChatGPT account with access to Everstride. Account sign-in still needs device verification; Google sign-in is not supported yet.",
+      "version": "1.0.0",
+      "updatedAt": "2026-09-15T06:35:41Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.everstride-1.0.0.apk",
+      "sha256": "4f62069439566fca43014bbd935adc8badec0e567fb03ad409cb305887746415",
       "featured": true
     }
   ]
