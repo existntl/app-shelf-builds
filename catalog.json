@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T20:25:05Z",
+  "generatedAt": "2026-09-17T16:05:54Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
       "name": "Work Hours Invoice",
-      "description": "Full-page navigation, archived invoice PDF viewing without restoring periods, a wider invoice layout, signatures aligned to the line, and blank zero-dollar amounts. Includes Start at, minimum-call billing, and overtime.",
-      "version": "1.4",
-      "updatedAt": "2026-09-15T20:25:05Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.4.apk",
-      "sha256": "9445fb644c67c3e8f9274373f29999b0a7a35044c03a9be54c225bb9bf341f81",
+      "description": "Archived previews show the original invoiced amount and currency. New exports save totals automatically; older archives can record the original PDF total. Show/job descriptions capitalize each word as you type. Includes full-page navigation and saved invoice viewing.",
+      "version": "1.4.1",
+      "updatedAt": "2026-09-17T16:05:54Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.4.1.apk",
+      "sha256": "80128f37dc4722abb8e7c32b565096eabfe9c87e16bfb6594715ea924bcb010d",
       "featured": true
     },
     {
