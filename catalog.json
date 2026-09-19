@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T05:26:56Z",
+  "generatedAt": "2026-09-19T05:44:08Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -45,11 +45,11 @@
     {
       "packageName": "com.existntl.everstride",
       "name": "Everstride",
-      "description": "Native anime workout adventure with 18 sessions, configurable goals and equipment, four skills to level 99, online progress, story arcs and crews.",
-      "version": "1.1.0",
-      "updatedAt": "2026-09-19T05:26:56Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.everstride-1.1.0.apk",
-      "sha256": "2ebc0540a793eae5933cb66a9544c9359e380ab9416e9303c5c17c93e2950213",
+      "description": "Premium native anime fitness adventure with 18 scalable workouts, four skills to level 99, customizable training plans, focused set tracking, story chapters and crews. Cinematic dark design with skill rings and native filter panels. Shared cloud journey; email account sign-in still needs device verification. Google sign-in is not supported.",
+      "version": "1.2.0",
+      "updatedAt": "2026-09-19T05:44:08Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.everstride-1.2.0.apk",
+      "sha256": "8fa3b0c4413240faa1137e973f41d4adc226ec79e4d08d51b9f8be126598668b",
       "featured": true
     }
   ]
