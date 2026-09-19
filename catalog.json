@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T07:41:25Z",
+  "generatedAt": "2026-09-19T17:54:12Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
       "name": "Work Hours Invoice",
-      "description": "Archived-period cards show the full invoiced amount. On Android 15 and newer, missing totals are read automatically from saved original invoice PDFs. Includes title-case typing for show/job descriptions, full-page navigation and saved invoice viewing.",
-      "version": "1.4.2",
-      "updatedAt": "2026-09-17T23:45:46Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.4.2.apk",
-      "sha256": "e9a3747b04f9716161f0baae5c668be59572bde3f208938c85f71f2a2c01642b",
+      "description": "Redesigned native interface with a clear work timer, pay-period earnings and invoice actions, plus visible totals in archived-period cards. Flexible controls and persistent form labels stay usable with enlarged text; includes saved invoice viewing and title-case show/job descriptions.",
+      "version": "1.5.0",
+      "updatedAt": "2026-09-19T17:54:12Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.5.0.apk",
+      "sha256": "61313608d541bb2abc2754e7f0ee68b05a78f3d748d2519489494dc8f27e3b15",
       "featured": true
     },
     {
