@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T01:56:44Z",
+  "generatedAt": "2026-09-27T17:45:59Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
       "name": "Folio",
-      "description": "Cleaner page headers with a simple back arrow, generous tap target and better title spacing across expense details, work forms, Schedule, connected devices and invoice imports. Keeps existing draft protection and the read-only calendar feature. Updates the existing Folio app in place.",
-      "version": "1.15.1",
-      "updatedAt": "2026-09-27T01:56:44Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.15.1.apk",
-      "sha256": "90003c54f27ec1f36a56f5a53264b572592f609f7886c53818fa3615679b958b",
+      "description": "Fixes the Schedule preview jumping when returning to Work hours. The existing next shift stays visible while the same calendars refresh, and updates when the result changes. Keeps read-only calendar access, compact back arrows, invoice records and draft protection.",
+      "version": "1.15.2",
+      "updatedAt": "2026-09-27T17:45:59Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.15.2.apk",
+      "sha256": "accf415251c9d510f91a02997027afa558bf0312413249ea66de5cabf39a7d6e",
       "featured": true
     },
     {

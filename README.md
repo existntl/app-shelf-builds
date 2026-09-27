@@ -8,7 +8,13 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Folio 1.15.1
+## Folio 1.15.2
+
+Fixes the next-shift preview collapsing and reappearing when returning to Work hours. The existing preview remains in place while the same calendar selection refreshes; unchanged text is not rebound. Changed company/calendar/filter settings or lost permission clear old details immediately, and a finished refresh with no matches removes the preview normally.
+
+A regression test reproduced the old collapse and passes with the fix. Clean build, original-signed release and 22 API35 host checks pass at 320dp/150% font. Before/during tab-return renders are identical. Physical-phone verification remains pending. Refresh Codex App Shelf -> Folio -> Update.
+
+### Previous Folio 1.15.1 update
 
 Replaces bulky back buttons with a simple arrow and consistently spaced page title. The shared header keeps a 48dp touch target, screen-reader label, keyboard focus feedback and right-to-left arrow support. Expense details, work forms, Schedule, connected devices and invoice imports use the same design. Existing Back actions and unsaved-draft protection are retained.
 
