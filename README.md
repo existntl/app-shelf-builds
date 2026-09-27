@@ -8,7 +8,13 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Folio 1.15.0
+## Folio 1.15.1
+
+Replaces bulky back buttons with a simple arrow and consistently spaced page title. The shared header keeps a 48dp touch target, screen-reader label, keyboard focus feedback and right-to-left arrow support. Expense details, work forms, Schedule, connected devices and invoice imports use the same design. Existing Back actions and unsaved-draft protection are retained.
+
+Clean Android build, signed release and 41 API35 host checks pass, including expense-draft Back navigation and enlarged-text native renders at 320dp width. The original signing certificate and package are preserved. Final physical-phone UI verification remains pending. Refresh Codex App Shelf, select **Folio**, then **Update**.
+
+### Previous Folio 1.15.0 update
 
 Adds optional read-only calendar access and a separate Schedule page. Select calendars already synced to the Android phone, choose a name filter per company, and see the next 90 days of planned shifts with times, locations and notes. Home shows just the next match. Calendar changes refresh the view; Google's calendar sync determines when remote edits reach the phone. Use for clock-in prefills the usual confirmation form; calendar hours never automatically become recorded or billed work. No calendar writing or calendar-content uploads are added.
 
