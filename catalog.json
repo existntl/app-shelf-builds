@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T03:06:14Z",
+  "generatedAt": "2026-09-27T00:39:10Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
       "name": "Folio",
-      "description": "Work hours, client invoices, receipts and bookkeeping in one app. New Folio name, overlapping-page icon and slate-blue interface. Includes company-specific work and invoices, offline receipt reading, equipment details, and optional encrypted expense/receipt sync with Folio for Windows. Updates the existing Work Hours app in place.",
-      "version": "1.14.0",
-      "updatedAt": "2026-09-26T03:06:14Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.14.0.apk",
-      "sha256": "0dd273ad1c129c179f8db7d03a8fdbaa053ab190f60a823bb03c2929a022a9e2",
+      "description": "Work hours, client invoices, receipts and bookkeeping in one app. Updated Folio icon: near-white blue front page and soft-blue back page on navy. Includes company-specific work and invoices, offline receipt reading, equipment details, and optional encrypted expense/receipt sync with Folio for Windows. Updates the existing app in place.",
+      "version": "1.14.1",
+      "updatedAt": "2026-09-27T00:39:10Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.14.1.apk",
+      "sha256": "058cfff3bac1c6ec8901a293ade4fa0f8e8ea968d558d74c6e072c742b039405",
       "featured": true
     },
     {
