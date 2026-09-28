@@ -8,7 +8,13 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Folio 1.15.2
+## Folio 1.15.3
+
+Tap the running shift card to edit its department, show/job description and start date/time in a native popup. The timer keeps running and retains its original company. Save validates the start time and persists changes; Cancel preserves the existing shift. Drafts survive screen recreation. Outward swipes at the first or last tab no longer trigger buttons underneath.
+
+Clean Android build/lint, original-signed release and 28 API35 host checks pass at 320dp/150% font, including timer restoration and company ownership. Physical-phone touch, keyboard/insets and force-stop/logcat verification remain pending. Refresh Codex App Shelf -> Folio -> Update, then confirm Android's installer. Publishing does not install automatically.
+
+### Previous Folio 1.15.2 update
 
 Fixes the next-shift preview collapsing and reappearing when returning to Work hours. The existing preview remains in place while the same calendar selection refreshes; unchanged text is not rebound. Changed company/calendar/filter settings or lost permission clear old details immediately, and a finished refresh with no matches removes the preview normally.
 

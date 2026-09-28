@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T17:45:59Z",
+  "generatedAt": "2026-09-28T19:35:54Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
       "name": "Folio",
-      "description": "Fixes the Schedule preview jumping when returning to Work hours. The existing next shift stays visible while the same calendars refresh, and updates when the result changes. Keeps read-only calendar access, compact back arrows, invoice records and draft protection.",
-      "version": "1.15.2",
-      "updatedAt": "2026-09-27T17:45:59Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.15.2.apk",
-      "sha256": "accf415251c9d510f91a02997027afa558bf0312413249ea66de5cabf39a7d6e",
+      "description": "Tap a running shift to edit its department, job description or start date/time in a popup. The timer continues and its company stays fixed; Cancel preserves the original details. Also prevents outward tab swipes from accidentally tapping buttons. Original signing and saved records retained. Phone verification remains pending.",
+      "version": "1.15.3",
+      "updatedAt": "2026-09-28T19:35:54Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.15.3.apk",
+      "sha256": "b21f868efe1170c696f71bba5ed7cdf85cf7e5f45bc7c212dd076df96b27d34a",
       "featured": true
     },
     {
