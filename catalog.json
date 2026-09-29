@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T19:35:54Z",
+  "generatedAt": "2026-09-29T05:40:51Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
       "name": "Folio",
-      "description": "Tap a running shift to edit its department, job description or start date/time in a popup. The timer continues and its company stays fixed; Cancel preserves the original details. Also prevents outward tab swipes from accidentally tapping buttons. Original signing and saved records retained. Phone verification remains pending.",
-      "version": "1.15.3",
-      "updatedAt": "2026-09-28T19:35:54Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.15.3.apk",
-      "sha256": "b21f868efe1170c696f71bba5ed7cdf85cf7e5f45bc7c212dd076df96b27d34a",
+      "description": "One chronological schedule across company calendars, with company labels and editable colour dots. Shared calendar occurrences are shown once with company choice when needed. Calendar connections remain read-only; starting work still requires confirmation and preserves active timers. Uses calendars already on the phone, not direct provider logins. Original signing and records retained. Phone verification remains pending.",
+      "version": "1.16.0",
+      "updatedAt": "2026-09-29T05:40:51Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.16.0.apk",
+      "sha256": "992f5a3542ae127250af380d20c7476261d2790febfb2ef7228497eefdaea129",
       "featured": true
     },
     {

@@ -8,7 +8,15 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Folio 1.15.3
+## Folio 1.16.0
+
+Adds one chronological agenda across the selected company calendars, with company names, source calendars, times and locations. Shared occurrences appear once and ask for a company when ambiguous. Calendar connections explain missing sources and setup; the app reads calendars already on the phone rather than logging into work providers. Provider calendar sharing determines what appears and how promptly changes arrive.
+
+Company colour dots now appear in the selector, schedule and recent work history. Choose from eight named colours in Edit company and Save company. Defaults are assigned automatically; saved choices stay with a company through renaming. Names stay visible. Colours do not alter billing data or original PDFs.
+
+Planned shifts never automatically become billed work. Use for clock-in opens confirmation for the selected active company and cannot replace a running timer. Clean build/lint, original-signed release and 23 focused API35 host checks pass at 320dp/150% font. Actual phone/provider sync and device verification remain pending. Refresh Codex App Shelf -> Folio -> Update, then confirm Android's installer. Publishing does not install automatically.
+
+### Previous Folio 1.15.3 update
 
 Tap the running shift card to edit its department, show/job description and start date/time in a native popup. The timer keeps running and retains its original company. Save validates the start time and persists changes; Cancel preserves the existing shift. Drafts survive screen recreation. Outward swipes at the first or last tab no longer trigger buttons underneath.
 
