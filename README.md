@@ -8,7 +8,13 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Folio 1.16.0
+## Folio 1.16.2
+
+After returning from the email app, choose **Sent — add to list and archive shifts** to mark the invoice Sent, place it in the invoice list and archive its matching company/period shifts and billed expenses. **Not sent yet** leaves work active. The original PDF, invoice amount and archived records remain saved. Work changed since export requires review before archiving. Opening the email chooser does not imply delivery.
+
+The invoice list also shows the latest saved invoice awaiting archive. Includes soft company-colour card highlights from 1.16.1. Clean build/lint, 18 focused API35 host tests and narrow-screen renders pass. Original package and signing identity are retained. Actual device verification of the finish-send flow remains pending. Refresh Codex App Shelf -> Folio -> Update, then confirm Android's installer; publication does not install automatically.
+
+### Previous Folio 1.16.0 update
 
 Adds one chronological agenda across the selected company calendars, with company names, source calendars, times and locations. Shared occurrences appear once and ask for a company when ambiguous. Calendar connections explain missing sources and setup; the app reads calendars already on the phone rather than logging into work providers. Provider calendar sharing determines what appears and how promptly changes arrive.
 
