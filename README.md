@@ -8,7 +8,13 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Folio 1.16.2
+## Folio 1.16.3
+
+Fixes the schedule losing company colour coding after opening a job and going Back. Both Back controls return to the combined agenda, including after screen recreation. Company-only schedule cards now use the same coloured dot, fill and border. Cancelled-job recovery returns to the correct schedule. Existing invoice send-and-archive improvements remain included.
+
+Clean debug/test build and lint passed; 29 focused API35 host tests passed at 320dp/150% text, and schedule renders were inspected. The release APK retains the original package and signing identity. Physical-phone verification remains pending. Refresh Codex App Shelf -> Folio -> Update, then confirm Android's installer. Publication does not install automatically.
+
+### Previous Folio 1.16.2 update
 
 After returning from the email app, choose **Sent — add to list and archive shifts** to mark the invoice Sent, place it in the invoice list and archive its matching company/period shifts and billed expenses. **Not sent yet** leaves work active. The original PDF, invoice amount and archived records remain saved. Work changed since export requires review before archiving. Opening the email chooser does not imply delivery.
 

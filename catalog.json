@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T19:54:10Z",
+  "generatedAt": "2026-10-02T06:43:03Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
       "name": "Folio",
-      "description": "After sending an invoice, confirm Sent to add it to the invoice list and archive its matching shifts and billed expenses. Not sent yet keeps work active. Original PDFs, amounts and archived work stay saved. Also includes soft company-colour highlights. Original signing identity retained. Device verification of the invoice finish flow remains pending.",
-      "version": "1.16.2",
-      "updatedAt": "2026-09-30T19:54:10Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.16.2.apk",
-      "sha256": "97106f504a50d8aabfd0006e1ee49c96e63a55c543a6277b173a4485de736a09",
+      "description": "Fixes company colours disappearing after opening a scheduled job and going Back. Returns to the combined agenda with company highlights intact; company-only schedule cards are coloured too. Includes the invoice send-and-archive improvements. Original signing identity retained. Physical-device verification remains pending.",
+      "version": "1.16.3",
+      "updatedAt": "2026-10-02T06:43:03Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.16.3.apk",
+      "sha256": "62e3a08540ff28ce0398e1c5c6ef28e244e62b9659a73d6cbd4d8184582318ab",
       "featured": true
     },
     {
