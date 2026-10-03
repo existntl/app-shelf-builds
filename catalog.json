@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T06:43:03Z",
+  "generatedAt": "2026-10-03T05:22:14Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
       "name": "Folio",
-      "description": "Fixes company colours disappearing after opening a scheduled job and going Back. Returns to the combined agenda with company highlights intact; company-only schedule cards are coloured too. Includes the invoice send-and-archive improvements. Original signing identity retained. Physical-device verification remains pending.",
-      "version": "1.16.3",
-      "updatedAt": "2026-10-02T06:43:03Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.16.3.apk",
-      "sha256": "62e3a08540ff28ce0398e1c5c6ef28e244e62b9659a73d6cbd4d8184582318ab",
+      "description": "Adds Schedule as a main tab between Work hours and Expenses, with swipe navigation and saved agenda position. Job details return to the coloured company schedule. Enlarged tab labels scroll horizontally. Original signing identity retained; physical-device verification remains pending.",
+      "version": "1.16.4",
+      "updatedAt": "2026-10-03T05:22:14Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.workhours.invoice-1.16.4.apk",
+      "sha256": "c780a499dc9e7d47e495215b9a0f7be718b43e7c72d0a59097eeb6e2fb76018e",
       "featured": true
     },
     {

@@ -8,7 +8,13 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Folio 1.16.3
+## Folio 1.16.4
+
+Schedule is now its own tab between Work hours and Expenses. Tap a tab or swipe between sections to see all configured company schedules. Your agenda scroll position is retained when switching tabs, and job details return to the coloured schedule. Tab labels scroll horizontally at enlarged text sizes. Choosing a job for clock-in still opens a confirmation form and never automatically records worked hours.
+
+Clean debug/test build and lint passed; 25 focused API35 host tests passed at 320dp/150% text, with 16 schedule checks also passing at 360dp/100%. Native renders were inspected. Original package and signing identity are retained. Physical-phone verification remains pending. Refresh Codex App Shelf -> Folio -> Update, then confirm Android's installer. Publication does not install automatically.
+
+### Previous Folio 1.16.3 update
 
 Fixes the schedule losing company colour coding after opening a job and going Back. Both Back controls return to the combined agenda, including after screen recreation. Company-only schedule cards now use the same coloured dot, fill and border. Cancelled-job recovery returns to the correct schedule. Existing invoice send-and-archive improvements remain included.
 
