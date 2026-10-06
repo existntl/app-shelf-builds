@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T18:54:17Z",
+  "generatedAt": "2026-10-06T19:59:04.979736+00:00",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -55,11 +55,11 @@
     {
       "packageName": "com.reidhill.rentaldeck",
       "name": "Rental Deck",
-      "description": "Adds a connected daily researched listing feed, automatic refresh, offline photos, and visible freshness and coverage. Swipe, filter, save and prepare applications. Direct Outlook sending is implemented but needs Microsoft app registration and sign-in; email-app handoff remains available. The feed is a researched shortlist, not exhaustive all-site search. Physical-phone and live Outlook verification pending.",
-      "version": "0.2.0",
-      "updatedAt": "2026-10-06T18:54:17Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.2.0.apk",
-      "sha256": "cb76bcf1fd7bdd75feb8aa3b45a1da3e0e41d88ba66dd434b8564d3925d64095",
+      "description": "Adds listing photo galleries: swipe photos, Previous/Next, photo counter and remembered position. Swipe the whole discovery card left to pass or right to save, with feedback and Undo. Feed includes 99 image links across nine listings; blocked or unverified galleries remain unavailable. Original signing identity preserved. Phone and live Outlook checks remain pending; direct Outlook needs Microsoft setup.",
+      "version": "0.3.0",
+      "updatedAt": "2026-10-06T19:59:04.979736+00:00",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.3.0.apk",
+      "sha256": "62c53ce6436c3b54c0894b53686448332d248a03ef5a44e71cedd04d6d8d029b",
       "featured": true
     }
   ]

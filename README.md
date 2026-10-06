@@ -8,13 +8,13 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Rental Deck 0.2.0
+## Rental Deck 0.3.0
 
-Adds a connected public researched-listing feed, automatic refresh, Android-managed background updates, offline photo caching and visible verification dates. The daily rental research automation publishes shortlist updates; this is not exhaustive all-site aggregation. Filters apply to the downloaded catalog. Existing swipe, shortlist, profile, selected documents and application-draft features remain.
+Adds separate listing-photo galleries with left/right swipes, Previous/Next buttons, a counter and remembered position. Full photographs fit in the gallery; only the selected image loads. Swipe anywhere on the discovery card left to pass or right to save, with visible feedback and Undo. Vertical scrolling, short drags and cancelled gestures do not decide. Photo swipes never save/pass or send applications.
 
-Direct Outlook sending is implemented with PKCE, encrypted local tokens, explicit message/attachment review, Sent Items and duplicate-send protection. It still requires a Microsoft app registration and user sign-in. Email-app and property-site handoff remain available. HTTP202 means accepted by Outlook, not delivered. No landlord messages were sent in development; no personal files or credentials are bundled.
+Public feed now includes 97 gallery links from seven listing-specific galleries plus two existing covers (99 links across nine listings). Some hosts block image downloads, so complete all-listing coverage is not claimed; unavailable imagery is labeled and original listing links remain. Source vacancy dates are not advanced by photo enrichment.
 
-14 Android host tests (including an actual public-feed download), 6 feed-validator tests and the existing 22 Java policy checks passed. Signed release and lint passed with zero errors. Physical-phone and live Outlook verification remain pending. Android 8.0+. Refresh App Shelf -> Rental Deck -> Update and confirm Android's installer. Original signing identity preserved.
+20 Android host tests and 6 feed-validator tests passed. Native gallery renders were checked at 360dp and 320dp with enlarged text. Signed release and lint passed with zero errors. Device QA and direct Outlook registration/live checks remain pending. Existing automatic researched feed, local profile/documents and reviewed application flows remain. Refresh App Shelf -> Rental Deck -> Update. Original package and signer retained; update in place.
 
 ## Folio 1.16.4
 
