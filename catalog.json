@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T20:26:39.157730+00:00",
+  "generatedAt": "2026-10-06T20:42:43.769179+00:00",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -55,11 +55,11 @@
     {
       "packageName": "com.reidhill.rentaldeck",
       "name": "Rental Deck",
-      "description": "Fixes cover-only photo imports for five Wiebe listings by including their expanded website galleries: 9, 9, 14, 13 and 9 images. Catalog has 151 image links across 12 listings. Swipe photos in home details; swipe discovery cards to save/pass. Older caches inherit bundled galleries. Other source gaps and physical-phone verification remain. Outlook requires Microsoft setup.",
-      "version": "0.3.2",
-      "updatedAt": "2026-10-06T20:26:39.157730+00:00",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.3.2.apk",
-      "sha256": "6d228997302809ac2c2c5e6899e1f0a3e1885cdbe0dc91e5323e5abadd6cc1c4",
+      "description": "Tap a card or gallery photo to open a full-screen viewer with swipe, Previous/Next and Close. Preloads all imported photos for the current home, prioritizes the viewed photo, and caches images for faster paging. Gallery position survives rotation; save/pass stays separate. Original signing retained. Physical-phone verification remains pending. Outlook requires Microsoft setup.",
+      "version": "0.4.0",
+      "updatedAt": "2026-10-06T20:42:43.769179+00:00",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.4.0.apk",
+      "sha256": "39f1596c9715cf1af12ea1ff7fdb57c3b38cf7307c85f5088fae1d051e842949",
       "featured": true
     }
   ]

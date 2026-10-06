@@ -8,11 +8,11 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Rental Deck 0.3.2
+## Rental Deck 0.4.0
 
-Fixes cover-only gallery imports for Park Suites, Marshall Grove, Park Suites1BD+den, The Hub and The Douglas. Their expanded website galleries contain9,9,14,13 and9 images respectively; all are included. Total151 linked images across12 listings. Example-suite photos and building renders are labeled. Other source gaps remain.
+Tap a discovery-card or detail photo for a full-screen gallery with swipe, Previous/Next, Close and Android Back. The selected photo survives activity recreation/rotation. All imported photos for the active home begin preloading when its card appears; the visible photo gets priority and queued background work for passed homes is discarded. Two dedicated workers share in-flight requests, with bounded memory/disk caching. Loading still depends on the network and source availability.
 
-Eight focused Android gallery/upgrade/gesture tests and nine Python gallery/feed tests pass. Release lint has zero errors; original package/signing identity retained. Physical-phone loading remains unverified. Refresh App Shelf -> Rental Deck -> Update, then reopen the home. Source verification dates were not advanced by photo enrichment; no application was sent.
+27 Android host checks passed covering gallery gestures, rotation, preloading, request sharing, queue priority, errors, saved/profile flows and connected-send safeguards. Native renders inspected at 360dp, 320dp/enlarged text and landscape. Signed release and lint passed with zero errors; original package/signer preserved. Physical-phone verification remains pending. Refresh App Shelf -> Rental Deck -> Update. Feed facts and galleries are unchanged; no application was sent.
 
 ## Folio 1.16.4
 
