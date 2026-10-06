@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T21:00:14.153429+00:00",
+  "generatedAt": "2026-10-06T22:20:48.537978+00:00",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -55,11 +55,11 @@
     {
       "packageName": "com.reidhill.rentaldeck",
       "name": "Rental Deck",
-      "description": "Fixes stale open listing galleries after a feed refresh. Includes all five Solomon images in the app for older cached records, refreshes read-only details on resume after background updates, and adds Refresh listing & photos to empty galleries. Application edits remain intact. Full-screen viewing and preloading retained. Physical-phone verification remains pending.",
-      "version": "0.4.1",
-      "updatedAt": "2026-10-06T21:00:14.153429+00:00",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.4.1.apk",
-      "sha256": "6b02aee2c27da479a14d1f385f4b18c5a4480f84ad061fb146cab9fee812e0fc",
+      "description": "Adds missing listing galleries, with shared Skyside imagery clearly labeled and #205 availability unconfirmed. Includes Rex, Forme, Yorkson and Sumas galleries. Brookswood image host may block app downloads. Deleted Ezekiel ad marked removed. Full-screen viewing, preloading and refresh fixes retained. Phone verification pending.",
+      "version": "0.4.2",
+      "updatedAt": "2026-10-06T22:20:48.537978+00:00",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.4.2.apk",
+      "sha256": "302858b41eab03c4d6c32d279259a8860a26998f1125eda7dfb73b5ca53c970e",
       "featured": true
     }
   ]
