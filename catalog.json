@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T20:04:17.801216+00:00",
+  "generatedAt": "2026-10-06T20:26:39.157730+00:00",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -55,11 +55,11 @@
     {
       "packageName": "com.reidhill.rentaldeck",
       "name": "Rental Deck",
-      "description": "Adds listing photo galleries: swipe photos, Previous/Next, photo counter and remembered position. Swipe the whole discovery card left to pass or right to save, with feedback and Undo. Feed includes 99 image links across nine listings; blocked or unverified galleries remain unavailable. Original signing identity preserved. Phone and live Outlook checks remain pending; direct Outlook needs Microsoft setup. Bundled galleries survive older default-feed caches.",
-      "version": "0.3.1",
-      "updatedAt": "2026-10-06T20:04:17.801216+00:00",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.3.1.apk",
-      "sha256": "944fdbfa43d9026c9276ce73bddb7555c25d62fd2e8ce5b9ad0202c8ce0b5c90",
+      "description": "Fixes cover-only photo imports for five Wiebe listings by including their expanded website galleries: 9, 9, 14, 13 and 9 images. Catalog has 151 image links across 12 listings. Swipe photos in home details; swipe discovery cards to save/pass. Older caches inherit bundled galleries. Other source gaps and physical-phone verification remain. Outlook requires Microsoft setup.",
+      "version": "0.3.2",
+      "updatedAt": "2026-10-06T20:26:39.157730+00:00",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.3.2.apk",
+      "sha256": "6d228997302809ac2c2c5e6899e1f0a3e1885cdbe0dc91e5323e5abadd6cc1c4",
       "featured": true
     }
   ]
