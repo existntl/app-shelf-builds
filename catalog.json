@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T19:59:04.979736+00:00",
+  "generatedAt": "2026-10-06T20:04:17.801216+00:00",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -55,11 +55,11 @@
     {
       "packageName": "com.reidhill.rentaldeck",
       "name": "Rental Deck",
-      "description": "Adds listing photo galleries: swipe photos, Previous/Next, photo counter and remembered position. Swipe the whole discovery card left to pass or right to save, with feedback and Undo. Feed includes 99 image links across nine listings; blocked or unverified galleries remain unavailable. Original signing identity preserved. Phone and live Outlook checks remain pending; direct Outlook needs Microsoft setup.",
-      "version": "0.3.0",
-      "updatedAt": "2026-10-06T19:59:04.979736+00:00",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.3.0.apk",
-      "sha256": "62c53ce6436c3b54c0894b53686448332d248a03ef5a44e71cedd04d6d8d029b",
+      "description": "Adds listing photo galleries: swipe photos, Previous/Next, photo counter and remembered position. Swipe the whole discovery card left to pass or right to save, with feedback and Undo. Feed includes 99 image links across nine listings; blocked or unverified galleries remain unavailable. Original signing identity preserved. Phone and live Outlook checks remain pending; direct Outlook needs Microsoft setup. Bundled galleries survive older default-feed caches.",
+      "version": "0.3.1",
+      "updatedAt": "2026-10-06T20:04:17.801216+00:00",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.3.1.apk",
+      "sha256": "944fdbfa43d9026c9276ce73bddb7555c25d62fd2e8ce5b9ad0202c8ce0b5c90",
       "featured": true
     }
   ]

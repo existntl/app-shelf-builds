@@ -8,13 +8,13 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Rental Deck 0.3.0
+## Rental Deck 0.3.1
 
 Adds separate listing-photo galleries with left/right swipes, Previous/Next buttons, a counter and remembered position. Full photographs fit in the gallery; only the selected image loads. Swipe anywhere on the discovery card left to pass or right to save, with visible feedback and Undo. Vertical scrolling, short drags and cancelled gestures do not decide. Photo swipes never save/pass or send applications.
 
 Public feed now includes 97 gallery links from seven listing-specific galleries plus two existing covers (99 links across nine listings). Some hosts block image downloads, so complete all-listing coverage is not claimed; unavailable imagery is labeled and original listing links remain. Source vacancy dates are not advanced by photo enrichment.
 
-20 Android host tests and 6 feed-validator tests passed. Native gallery renders were checked at 360dp and 320dp with enlarged text. Signed release and lint passed with zero errors. Device QA and direct Outlook registration/live checks remain pending. Existing automatic researched feed, local profile/documents and reviewed application flows remain. Refresh App Shelf -> Rental Deck -> Update. Original package and signer retained; update in place.
+21 Android host tests and 6 feed-validator tests passed. Older default-feed snapshots inherit bundled galleries by exact listing URL, while explicit gallery removal and custom feeds remain respected. Native gallery renders were checked at 360dp and 320dp with enlarged text. Signed release and lint passed with zero errors. Device QA and direct Outlook registration/live checks remain pending. Existing automatic researched feed, local profile/documents and reviewed application flows remain. Refresh App Shelf -> Rental Deck -> Update. Original package and signer retained; update in place.
 
 ## Folio 1.16.4
 
