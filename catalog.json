@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T20:42:43.769179+00:00",
+  "generatedAt": "2026-10-06T21:00:14.153429+00:00",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -55,11 +55,11 @@
     {
       "packageName": "com.reidhill.rentaldeck",
       "name": "Rental Deck",
-      "description": "Tap a card or gallery photo to open a full-screen viewer with swipe, Previous/Next and Close. Preloads all imported photos for the current home, prioritizes the viewed photo, and caches images for faster paging. Gallery position survives rotation; save/pass stays separate. Original signing retained. Physical-phone verification remains pending. Outlook requires Microsoft setup.",
-      "version": "0.4.0",
-      "updatedAt": "2026-10-06T20:42:43.769179+00:00",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.4.0.apk",
-      "sha256": "39f1596c9715cf1af12ea1ff7fdb57c3b38cf7307c85f5088fae1d051e842949",
+      "description": "Fixes stale open listing galleries after a feed refresh. Includes all five Solomon images in the app for older cached records, refreshes read-only details on resume after background updates, and adds Refresh listing & photos to empty galleries. Application edits remain intact. Full-screen viewing and preloading retained. Physical-phone verification remains pending.",
+      "version": "0.4.1",
+      "updatedAt": "2026-10-06T21:00:14.153429+00:00",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.4.1.apk",
+      "sha256": "6b02aee2c27da479a14d1f385f4b18c5a4480f84ad061fb146cab9fee812e0fc",
       "featured": true
     }
   ]

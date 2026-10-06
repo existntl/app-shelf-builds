@@ -8,11 +8,11 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
-## Rental Deck 0.4.0
+## Rental Deck 0.4.1
 
-Tap a discovery-card or detail photo for a full-screen gallery with swipe, Previous/Next, Close and Android Back. The selected photo survives activity recreation/rotation. All imported photos for the active home begin preloading when its card appears; the visible photo gets priority and queued background work for passed homes is discarded. Two dedicated workers share in-flight requests, with bounded memory/disk caching. Loading still depends on the network and source availability.
+Fixes a reproduced stale-detail bug: refreshing the feed while a listing was open left its gallery showing the old photo count. Read-only listing pages and full-screen viewers now adopt refreshed records; background updates are picked up on resume. Editable application/profile fields stay intact. Empty galleries offer Refresh listing & photos, and default-feed requests avoid stale CDN snapshots. The APK now bundles all five verified Solomon image links, allowing legacy records without a photos field to recover without a feed download. Explicit empty-gallery removals remain respected.
 
-27 Android host checks passed covering gallery gestures, rotation, preloading, request sharing, queue priority, errors, saved/profile flows and connected-send safeguards. Native renders inspected at 360dp, 320dp/enlarged text and landscape. Signed release and lint passed with zero errors; original package/signer preserved. Physical-phone verification remains pending. Refresh App Shelf -> Rental Deck -> Update. Feed facts and galleries are unchanged; no application was sent.
+32 Android host tests passed, including live public-feed transport, stale Solomon detail regression, bundled gallery migration, resume, viewer preservation and unsaved application edits. Native empty-gallery renders inspected at 360dp and 320dp/enlarged text. Signed release/lint passed; original package/signer retained. Physical-phone verification remains pending. Refresh App Shelf -> Rental Deck -> Update to0.4.1; no uninstall needed.
 
 ## Folio 1.16.4
 
