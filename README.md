@@ -85,3 +85,5 @@ Refresh Codex App Shelf, select **Folio**, then **Update** and confirm Android's
 Folio is the new name for Work Hours Invoice, with one identity shared by the Android app and its Windows bookkeeping companion. Refresh Codex App Shelf and update the existing entry; the Android package and original signing identity are unchanged.
 
 The update includes the slate-blue theme, page icon, company-scoped work and invoices, receipt capture and offline reading, expense guidance, equipment details and optional encrypted expense/receipt sync. Build, signature and 36 Android host test groups passed, including narrow screens and enlarged text. Final hands-on verification of this version on the owner's phone is pending. Publishing does not install the update automatically.
+
+Rental Deck 0.4.4: per-source connection states, five manager collectors; other rental portals still require source access. Same signing identity. Host checks passed; physical-device QA pending.

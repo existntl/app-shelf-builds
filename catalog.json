@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T22:47:33.778478+00:00",
+  "generatedAt": "2026-10-06T23:13:54.810067+00:00",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -55,11 +55,11 @@
     {
       "packageName": "com.reidhill.rentaldeck",
       "name": "Rental Deck",
-      "description": "Checks for feed updates about once a minute while open and requests15-minute background sync (Android may delay). Includes25 researched leads. A free Windows collector checks Ronin, Wiebe and Little Oak every5minutes while the host is available; wider daily research remains supplemental. Not instant or all-site coverage. Original signing identity retained; phone verification pending.",
-      "version": "0.4.3",
-      "updatedAt": "2026-10-06T22:47:33.778478+00:00",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.4.3.apk",
-      "sha256": "3f510d006bc991813c319a2a986beb85c657b9e2791f18cb53b3c9ae1c0e8d7d",
+      "description": "Adds source-by-source connection status and live manager checks for Century 21 Coastal on ShowMojo and The Rex. Five configured manager sources now run every five minutes while the Windows host is available. Other rental portals remain unconnected pending authorized data access; this is not all-site coverage. Saves, photos and original signing identity preserved.",
+      "version": "0.4.4",
+      "updatedAt": "2026-10-06T23:13:54.810067+00:00",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.4.4.apk",
+      "sha256": "14141dd9a3a484e428cee1bf7d3bc4e49233c04c5e0179185eae5e34ea005beb",
       "featured": true
     }
   ]
