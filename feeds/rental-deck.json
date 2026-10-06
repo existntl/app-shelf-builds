@@ -214,7 +214,7 @@
       "address": "205-2673 Trinity Street, Abbotsford",
       "city": "Abbotsford",
       "type": "Apartment",
-      "rent": 1595,
+      "rent": -1,
       "beds": 1,
       "size": 523,
       "parkingCost": -1,
@@ -222,20 +222,24 @@
       "laundry": "yes",
       "parking": "unknown",
       "gym": "unknown",
-      "status": "advertised",
+      "status": "unverified",
       "source": "RentFaster",
       "checkedAt": "2026-10-06",
-      "summary": "1 bed, 523 sq ft, private laundry, AC and balcony; no gym verified. RentFaster now lists #205 at $1,595, down from the previously shared $1,650; primary building site still says one-bedrooms from $1,640, so confirm the unit quote. Building parking is advertised at $75 elsewhere: provisional subtotal $1,670 before other utilities, subject to stall/rate confirmation. RentFaster includes water/internet; electricity/heating and internet promotion duration need confirming. Advertised immediate.",
-      "utilities": "Water included per RentFaster; power/heating unknown. $75 building parking quote still needs unit confirmation.",
+      "summary": "UNIT AVAILABILITY UNCONFIRMED. The current building-wide source no longer displays #205 or its previously recorded $1,595 quote; visible other one-bedroom units start at $1,640. Do not treat those units as #205. Photos are a building rendering and shared promotional image, not verified #205 interiors. The promotion is not an ongoing rent discount. Earlier unit details were 1 bed / 523 sq ft; current unit price, parking and utilities require confirmation.",
+      "utilities": "Building advertises water included; other utilities and unit-specific terms unconfirmed.",
       "internet": "Advertised included; promotion duration unconfirmed.",
       "insurance": "unknown separately",
-      "availability": "December 1 availability unconfirmed. See the source notes below for advertised timing.",
+      "availability": "Unit #205 is not in the current visible inventory. December 1 availability unconfirmed.",
       "availableFrom": "",
       "smoking": "Policy unconfirmed; check the original listing.",
       "email": "",
       "applyUrl": "",
-      "photo": "",
-      "extraChargesRequired": false
+      "photo": "https://rf-images-prod-bcdn.rentfaster.ca/718378/16452630.v.c34c098a04b58bedc6f222184447f8a4.jpg",
+      "extraChargesRequired": true,
+      "photos": [
+        "https://rf-images-prod-bcdn.rentfaster.ca/718378/16452630.v.c34c098a04b58bedc6f222184447f8a4.jpg",
+        "https://rf-images-prod-bcdn.rentfaster.ca/718378/16452628.v.36cf4153cf90a79ac5f0ba997c6a4a08.jpg"
+      ]
     },
     {
       "url": "https://www.therexliving.com/suites",
@@ -254,7 +258,7 @@
       "status": "advertised",
       "source": "Property manager",
       "checkedAt": "2026-10-06",
-      "summary": "1 bed, 533 sq ft, private laundry. Primary suite list now advertises a November 2026 option from $1,599, plus available-now options from $1,650. Exact unit/floor unknown. Parking charge and utility inclusions unconfirmed; subtotal is rent only. No included gym verified. November availability does not establish December 1 availability.",
+      "summary": "1 bed, 533 sq ft, private laundry. Primary suite list now advertises a November 2026 option from $1,599, plus available-now options from $1,650. Exact unit/floor unknown. Parking charge and utility inclusions unconfirmed; subtotal is rent only. No included gym verified. November availability does not establish December 1 availability. Gallery: six example-suite images plus the matching 533 sq ft Plan B floor plan; interiors are not a verified specific available unit.",
       "utilities": "unconfirmed",
       "internet": "Inclusion and price unconfirmed",
       "insurance": "Requirement and price unconfirmed",
@@ -263,8 +267,17 @@
       "smoking": "Policy unconfirmed; check the original listing.",
       "email": "",
       "applyUrl": "",
-      "photo": "",
-      "extraChargesRequired": false
+      "photo": "https://assets.rentsync.com/bentall_therex/panels/building-photos/files/1152/1687271772162_SRP_2294.jpg",
+      "extraChargesRequired": false,
+      "photos": [
+        "https://assets.rentsync.com/bentall_therex/panels/building-photos/files/1152/1687271772162_SRP_2294.jpg",
+        "https://assets.rentsync.com/bentall_therex/panels/building-photos/files/1152/1687271771986_SRP_2084.jpg",
+        "https://assets.rentsync.com/bentall_therex/panels/building-photos/files/1152/1687271772141_SRP_2107-Edit.jpg",
+        "https://assets.rentsync.com/bentall_therex/panels/building-photos/files/1152/1687271770105_SRP_2097-Edit.jpg",
+        "https://assets.rentsync.com/bentall_therex/panels/building-photos/files/1152/1693924983587_SRP_2183-Edit.jpg",
+        "https://assets.rentsync.com/bentall_therex/panels/building-photos/files/1152/1687959523633_SRP_2150.jpg",
+        "https://assets.rentsync.com/bentall_green_oak/images/floorplans/1734465786_Plan_B.png"
+      ]
     },
     {
       "url": "https://abbotsfordapartments.com/homes/the-douglas-now-accepting-applications/",
@@ -283,7 +296,7 @@
       "status": "advertised",
       "source": "Property manager",
       "checkedAt": "2026-10-06",
-      "summary": "Building offer, not a confirmed individual unit. Studios 312–442 sq ft; 1 beds 495–538 sq ft. Private laundry, AC, courtyard and underground parking advertised. Parking fee and utility inclusions unknown; subtotal is rent only. Current manager availability index includes it, but detail page retains September opening/construction text, so readiness and available units need confirmation. No gym advertised. Photo gallery: Building-wide marketing renders and example layouts, not photographs of a specific available unit.",
+      "summary": "Building offer, not a confirmed individual unit. Studios 312â€“442 sq ft; 1 beds 495â€“538 sq ft. Private laundry, AC, courtyard and underground parking advertised. Parking fee and utility inclusions unknown; subtotal is rent only. Current manager availability index includes it, but detail page retains September opening/construction text, so readiness and available units need confirmation. No gym advertised. Photo gallery: Building-wide marketing renders and example layouts, not photographs of a specific available unit.",
       "utilities": "unconfirmed",
       "internet": "Inclusion and price unconfirmed",
       "insurance": "Requirement and price unconfirmed",
@@ -410,14 +423,14 @@
       "laundry": "yes",
       "parking": "unknown",
       "gym": "yes",
-      "status": "advertised",
+      "status": "removed",
       "source": "Craigslist",
       "checkedAt": "2026-10-06",
-      "summary": "Ground-floor 1 bed, 610 sq ft. Live Craigslist ad advertises private laundry, gym, yoga studio, theatre and underground parking. Stall allocation/fee and utility inclusions unknown; subtotal $1,700 rent only. Available now. Unfurnished title conflicts with furnished tag; clarify. Only $100 remains for any parking/utilities.",
+      "summary": "The source says this posting has been deleted by its author as checked October 6, 2026. Previous price and features are historical, not a current offer. No gallery was available.",
       "utilities": "inclusions and costs unknown",
       "internet": "unknown separately",
       "insurance": "unknown separately",
-      "availability": "December 1 availability unconfirmed. See the source notes below for advertised timing.",
+      "availability": "Source advertisement deleted; current availability unknown.",
       "availableFrom": "",
       "smoking": "Policy unconfirmed; check the original listing.",
       "email": "",
@@ -451,8 +464,21 @@
       "smoking": "Policy unconfirmed; check the original listing.",
       "email": "",
       "applyUrl": "",
-      "photo": "",
-      "extraChargesRequired": true
+      "photo": "https://images.craigslist.org/01111_lSgmcCyXwuz_0t20CI_600x450.jpg",
+      "extraChargesRequired": true,
+      "photos": [
+        "https://images.craigslist.org/01111_lSgmcCyXwuz_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00o0o_dT5Gvz9TL5M_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00w0w_aUn46o5Byli_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00C0C_20hTzcZqhSc_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00i0i_fxwHMjK20Hj_0aT0ew_600x450.jpg",
+        "https://images.craigslist.org/00101_cGXSOPu9wTI_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00x0x_jTTssRqgbNf_0t20CI_600x450.jpg",
+        "https://images.craigslist.org/00O0O_1yqTUTXrCFQ_0aT0ew_600x450.jpg",
+        "https://images.craigslist.org/00s0s_95ULCNbBX6e_0aT0ew_600x450.jpg",
+        "https://images.craigslist.org/00505_3hrVTZmRCjc_0aT0ew_600x450.jpg",
+        "https://images.craigslist.org/00k0k_5ifeOtfAItT_0aT0ew_600x450.jpg"
+      ]
     },
     {
       "url": "https://abbotsfordapartments.com/homes/central-park-village-the-hub-1bdden/",
@@ -616,7 +642,7 @@
       "status": "advertised",
       "source": "Rentals.ca",
       "checkedAt": "2026-10-06",
-      "summary": "2 beds, 650 sq ft. In-suite laundry; electricity, heat, water and internet advertised included. Listing says two street-parking spots with no extra fee; a reliable reserved space is NOT confirmed. Advertised subtotal $1,700 with listed utilities. Exact address and move-in date unknown; page remains live but has no clear freshness date. No gym advertised.",
+      "summary": "2 beds, 650 sq ft. In-suite laundry; electricity, heat, water and internet advertised included. Listing says two street-parking spots with no extra fee; a reliable reserved space is NOT confirmed. Advertised subtotal $1,700 with listed utilities. Exact address and move-in date unknown; page remains live but has no clear freshness date. No gym advertised. Seven gallery links are imported and load on the source webpage, but direct image downloads returned HTTP403; in-app loading may remain blocked. Use the original listing for its gallery.",
       "utilities": "Electricity, heat, water included; street parking only.",
       "internet": "Included",
       "insurance": "Requirement and price unconfirmed",
@@ -625,8 +651,17 @@
       "smoking": "Policy unconfirmed; check the original listing.",
       "email": "",
       "applyUrl": "",
-      "photo": "",
-      "extraChargesRequired": false
+      "photo": "https://images.rentals.ca/property-pictures/medium/langley-bc/1556456/apartment-2241714302.jpg",
+      "extraChargesRequired": false,
+      "photos": [
+        "https://images.rentals.ca/property-pictures/medium/langley-bc/1556456/apartment-2241714302.jpg",
+        "https://images.rentals.ca/property-pictures/medium/langley-bc/1556456/apartment-2241714300.jpg",
+        "https://images.rentals.ca/property-pictures/medium/langley-bc/1556456/apartment-2241714299.jpg",
+        "https://images.rentals.ca/property-pictures/medium/langley-bc/1556456/apartment-2241714301.jpg",
+        "https://images.rentals.ca/property-pictures/medium/langley-bc/1556456/apartment-2241714304.jpg",
+        "https://images.rentals.ca/property-pictures/medium/langley-bc/1556456/apartment-2241714303.jpg",
+        "https://images.rentals.ca/property-pictures/medium/langley-bc/1556456/apartment-2241714305.jpg"
+      ]
     },
     {
       "url": "https://order.fantuan.ca/local-services/zh-CN/detail/6731780153-ca",
@@ -713,7 +748,7 @@
       "address": "Yorkson, Langley Township; exact address unknown",
       "city": "Langley Township",
       "type": "Basement",
-      "rent": 1600,
+      "rent": 1650,
       "beds": 2,
       "size": 950,
       "parkingCost": -1,
@@ -724,7 +759,7 @@
       "status": "advertised",
       "source": "Craigslist",
       "checkedAt": "2026-10-06",
-      "summary": "LOWER-PRIORITY FALLBACK. 2 beds, 950 sq ft, kitchenette, private entrance and in-suite laundry. Ad explicitly says available DECEMBER 1, 2026. Utilities and Wi-Fi included. Off-street parking advertised, but stall/fee and exact address/municipality remain unconfirmed. Known subtotal $1,600 before any parking charge. No gym. Smoke-free property; policy scope unclear. This is still not a fully confirmed match.",
+      "summary": "LOWER-PRIORITY FALLBACK. 2 beds, 950 sq ft, kitchenette, private entrance and in-suite laundry. Current ad explicitly says December 1, 2026 and $1,650 including utilities and Wi-Fi. Street parking only is tagged; a reserved stall and any fee are unconfirmed. Exact address remains unknown. No gym. Smoke-free property; policy scope unclear.",
       "utilities": "Utilities included in advertised rent.",
       "internet": "Included",
       "insurance": "Requirement and price unconfirmed",
@@ -733,8 +768,29 @@
       "smoking": "Smoke-free property; policy scope unclear.",
       "email": "",
       "applyUrl": "",
-      "photo": "",
-      "extraChargesRequired": false
+      "photo": "https://images.craigslist.org/00u0u_4SSAOkhZvwr_0CI0t2_600x450.jpg",
+      "extraChargesRequired": false,
+      "photos": [
+        "https://images.craigslist.org/00u0u_4SSAOkhZvwr_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00C0C_cppjZsiFpM_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00J0J_gBTLd6iWnGX_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00X0X_93tJ5GAnZlH_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00V0V_9fujwcWAxuZ_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00a0a_7Pdv2FXyTgJ_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00v0v_ksoy6RsK3xG_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00m0m_h0Kkm0seFAY_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00w0w_iBeqUeFevWE_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00808_hFdkbQQnUUL_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00q0q_fy0cuCW40ZW_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00202_jLBOQwP04F7_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00u0u_Jmos2PLvVb_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00y0y_bE1WL1i5120_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00l0l_4k2bg5IWuLy_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00B0B_l5gR07qKqCb_0CI0t2_600x450.jpg",
+        "https://images.craigslist.org/00101_7fz7lPzS6cW_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00L0L_4q1hpwOH9Zb_0lM0t2_600x450.jpg",
+        "https://images.craigslist.org/00l0l_1LFEuVGpvTv_0lM0t2_600x450.jpg"
+      ]
     },
     {
       "url": "https://littleoakrentals.ca/rental-listings.html/listing.9-4581-sumas-mountain-road-abbotsford-v3g-0h3.109815392",
@@ -762,8 +818,22 @@
       "smoking": "Policy unconfirmed; check the original listing.",
       "email": "",
       "applyUrl": "",
-      "photo": "",
-      "extraChargesRequired": false
+      "photo": "https://iss-cdn.myrealpage.com/5ASWQ60C2RzJbW6gcWKw-ixnfI_8rxQ-QT7FHoit6to/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi82ZWI1MTU1MmYwZTNlYjI1NjhlZGMyZTMxNmQzZWY4Ny5KUEc",
+      "extraChargesRequired": false,
+      "photos": [
+        "https://iss-cdn.myrealpage.com/5ASWQ60C2RzJbW6gcWKw-ixnfI_8rxQ-QT7FHoit6to/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi82ZWI1MTU1MmYwZTNlYjI1NjhlZGMyZTMxNmQzZWY4Ny5KUEc",
+        "https://iss-cdn.myrealpage.com/cYLrK6X7ep0iFPDaT7G2HvDQnejVcqHTbPMeSIMkjtg/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi82ZDZlZDFhZTRlZTBkNWNiODc3MWNkMzg2ZjEwNmE5MC5KUEc",
+        "https://iss-cdn.myrealpage.com/msdlompIsrErJ2rNmtH5eGkDas-62zF2j6-Ag9CsjYQ/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi81MDdiMWE3OTE2NjNkYThiNzgzODZhNTQ3YzUxMWM4My5KUEc",
+        "https://iss-cdn.myrealpage.com/W3pWTaWQy4_73a6Y95EyuX8bbM4ObizGFq6qOUBm-aI/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi83ODNiMTYwOWIyNTkwOTliMjU0NjkwNTYzNDg0N2JmZS5KUEc",
+        "https://iss-cdn.myrealpage.com/wItUpv9r670I80O7kKBeaCMTyjTfLyD22HXQt1S9vNc/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi84MGZhMDEwYWZmYjNjNzE3NzdlMjZkYjk4ODU3Njk5ZS5KUEc",
+        "https://iss-cdn.myrealpage.com/fFTIA7SlsiCE98FN1XRwrafOFAa2PQj2Kprck_PlyWw/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi9mYTI1YmU1NjZmNzdhZGQxZTE4NTMxMTNjYmMzMWIyNi5KUEc",
+        "https://iss-cdn.myrealpage.com/j02w8MFQ1NXOX8uxnibLXkUa7pp-4xkMxpPk2nrxO1A/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi8wZjRmZDFiNTRkMzgzMzkxZDI0NGMxMTVmODc5ZDI4OS5KUEc",
+        "https://iss-cdn.myrealpage.com/8BZoqE6XGsnaG2R9dNLivTzafLVm_r8Bk4lKEJ2hDCs/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi9kYmJlMzYzNTEyMzU5YmE0NGZlZDViMGMyMGI3YmFlMS5KUEc",
+        "https://iss-cdn.myrealpage.com/c5aAd7aWnTLBLv0d9iU9Wm-bOLR0G9Nz4Pm9kJnAIg8/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi8xYzlmNmUxMDQ1OWZhNTFjNTFmMDM4OWRiMWIyNGZiYi5KUEc",
+        "https://iss-cdn.myrealpage.com/KIh83pM6cGhssKuVuBddlkVBMzxDKjY3bf39XLHckHo/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi83ZmY4OTM5NDBmYjY0ZDQ2ODBmMTUzZWUwZmM3MDlmYS5KUEc",
+        "https://iss-cdn.myrealpage.com/BVPj96CZ0rHRjVBe86IVUquArU_huY_n_iIBGYXUn6E/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi9hZWQ3YmI1ODEyMWE1Y2FiNDYzZjM5YzI4NmY0Nzk3OC5KUEc",
+        "https://iss-cdn.myrealpage.com/vtXe8_nNFgu4QkIuJLgm_HzPI4DKyeDPKigfF_5JxYc/rs:auto:0:0:0/g:sm/aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vbXJwLWxpc3RpbmdzLzIvOS8zLzEwOTgxNTM5Mi8yMGJjODNmNGEzNTg2YmJhZDZmZWRmMmY5MTMyN2NlZi5KUEc"
+      ]
     }
   ],
   "completeSnapshot": true,
@@ -780,5 +850,5 @@
     "Abbotsford"
   ],
   "coverageBudgetMax": 1800,
-  "publishedAt": "2026-10-06T20:51:44.680910+00:00"
+  "publishedAt": "2026-10-06T22:19:39.708678+00:00"
 }
