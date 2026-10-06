@@ -8,6 +8,14 @@ Public distribution catalog for personal Android builds published through Codex 
 
 Public APKs can be downloaded and inspected by anyone. Do not put credentials, customer records, signing keys, or other secrets in an APK or catalog entry.
 
+## Rental Deck 0.1.0 preview
+
+Swipe-based rental shortlist with adjustable cities, budget, parking, private laundry and home types. Includes 20 public listing/building advertisements checked October 6, 2026; active advertisements are not confirmed vacancies. Save or pass homes, keep a local renter profile and documents, and review per-property application drafts with selected attachments.
+
+This preview does not automatically collect every rental site. New listings require manual link entry, a JSON import or an authorized connected feed. Email and property websites handle submission; opening a draft never counts as a sent application. No automatic landlord inquiries, personal reference PDFs, credentials or signing material are bundled.
+
+22 Java policy checks, four Robolectric tests and native desktop renders passed; Android lint reports zero errors. Physical-phone checks, including document sharing and email handoff, remain pending. Android 8.0 or later. Refresh App Shelf -> Rental Deck -> Install, then confirm Android's installer.
+
 ## Folio 1.16.4
 
 Schedule is now its own tab between Work hours and Expenses. Tap a tab or swipe between sections to see all configured company schedules. Your agenda scroll position is retained when switching tabs, and job details return to the coloured schedule. Tab labels scroll horizontally at enlarged text sizes. Choosing a job for clock-in still opens a confirmation form and never automatically records worked hours.

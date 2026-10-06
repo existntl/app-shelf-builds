@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T05:22:14Z",
+  "generatedAt": "2026-10-06T18:29:38Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -50,6 +50,16 @@
       "updatedAt": "2026-09-19T07:41:25Z",
       "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.existntl.everstride-1.3.0.apk",
       "sha256": "00912c4424e631dd110751f1c2142de981e14540907199b52c0f74217105e645",
+      "featured": true
+    },
+    {
+      "packageName": "com.reidhill.rentaldeck",
+      "name": "Rental Deck",
+      "description": "Android preview: swipe to save or pass rentals, adjustable areas and criteria, saved homes, local profile, application drafts and selected attachments. Includes 20 advertisements checked October 6, 2026. New listings require manual entry or an imported/authorized feed; automatic all-site collection is not connected. Applications hand off to your email app or the property website for you to send. Desktop Android checks passed; physical-phone verification pending.",
+      "version": "0.1.0",
+      "updatedAt": "2026-10-06T18:29:38Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.1.0.apk",
+      "sha256": "3f82939154218e0d58512616e6846a2817ba618ce7948a3719af300c070f25e4",
       "featured": true
     }
   ]
