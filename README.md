@@ -1,8 +1,8 @@
 ## Rental Deck 0.4.2
 
-Adds58 gallery links across6 previously empty records.51 images downloaded/decoded; Brookswood7 load in the source browser but direct downloads return403, explicitly disclosed. Skyside contains2 shared rendering/promotion images, not verified #205 interiors; the unit and historical1595price are no longer visible in current inventory and are unconfirmed. Ezekiel ad deleted; Yorkson corrected to1650/street parking. Source galleries captured via normal public UI.
+Adds 58 gallery links across six previously empty records. 51 images downloaded and decoded; seven Brookswood images load in the source browser but direct downloads return HTTP403, disclosed in-app. Skyside has two shared rendering/promotion images, not verified #205 interiors. Its prior $1,595 quote is no longer visible and current unit availability is unconfirmed. Ezekiel ad deleted; Yorkson corrected to $1,650 and street parking.
 
-16 Android gallery/live-feed host checks and9 feed/export checks pass. Signed release/lint passes with original identity. Public feed and bundled214links match. Physical-phone verification pending. Refresh App Shelf -> Rental Deck -> Update0.4.2, then Sources -> Refresh. No uninstall.
+16 Android gallery/live-feed host checks and nine feed/export checks pass. Signed release and lint pass with original identity. Public feed and bundled 214 links match. Physical-phone verification pending. Refresh App Shelf -> Rental Deck -> Update 0.4.2, then Sources -> Refresh. No uninstall needed.
 
 # Codex App Shelf Builds
 
@@ -34,7 +34,7 @@ Clean debug/test build and lint passed; 29 focused API35 host tests passed at 32
 
 ### Previous Folio 1.16.2 update
 
-After returning from the email app, choose **Sent â€” add to list and archive shifts** to mark the invoice Sent, place it in the invoice list and archive its matching company/period shifts and billed expenses. **Not sent yet** leaves work active. The original PDF, invoice amount and archived records remain saved. Work changed since export requires review before archiving. Opening the email chooser does not imply delivery.
+After returning from the email app, choose **Sent — add to list and archive shifts** to mark the invoice Sent, place it in the invoice list and archive its matching company/period shifts and billed expenses. **Not sent yet** leaves work active. The original PDF, invoice amount and archived records remain saved. Work changed since export requires review before archiving. Opening the email chooser does not imply delivery.
 
 The invoice list also shows the latest saved invoice awaiting archive. Includes soft company-colour card highlights from 1.16.1. Clean build/lint, 18 focused API35 host tests and narrow-screen renders pass. Original package and signing identity are retained. Actual device verification of the finish-send flow remains pending. Refresh Codex App Shelf -> Folio -> Update, then confirm Android's installer; publication does not install automatically.
 
