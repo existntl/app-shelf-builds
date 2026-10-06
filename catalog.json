@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T18:29:38Z",
+  "generatedAt": "2026-10-06T18:54:17Z",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -55,11 +55,11 @@
     {
       "packageName": "com.reidhill.rentaldeck",
       "name": "Rental Deck",
-      "description": "Android preview: swipe to save or pass rentals, adjustable areas and criteria, saved homes, local profile, application drafts and selected attachments. Includes 20 advertisements checked October 6, 2026. New listings require manual entry or an imported/authorized feed; automatic all-site collection is not connected. Applications hand off to your email app or the property website for you to send. Desktop Android checks passed; physical-phone verification pending.",
-      "version": "0.1.0",
-      "updatedAt": "2026-10-06T18:29:38Z",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.1.0.apk",
-      "sha256": "3f82939154218e0d58512616e6846a2817ba618ce7948a3719af300c070f25e4",
+      "description": "Adds a connected daily researched listing feed, automatic refresh, offline photos, and visible freshness and coverage. Swipe, filter, save and prepare applications. Direct Outlook sending is implemented but needs Microsoft app registration and sign-in; email-app handoff remains available. The feed is a researched shortlist, not exhaustive all-site search. Physical-phone and live Outlook verification pending.",
+      "version": "0.2.0",
+      "updatedAt": "2026-10-06T18:54:17Z",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.2.0.apk",
+      "sha256": "cb76bcf1fd7bdd75feb8aa3b45a1da3e0e41d88ba66dd434b8564d3925d64095",
       "featured": true
     }
   ]
