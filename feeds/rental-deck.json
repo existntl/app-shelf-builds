@@ -189,7 +189,7 @@
       "status": "advertised",
       "source": "Brokerage",
       "checkedAt": "2026-10-06",
-      "summary": "Plan A1, 1 bed, 470 sq ft. Active brokerage listing plus primary building page. Private laundry, gym, AC and Wi-Fi advertised included. Parking costs extra, amount unknown; utilities extra. Known subtotal from $1,560 before parking/utilities. Exact unit, floor, rate and move-in date need confirmation; primary page retains older opening wording.",
+      "summary": "Plan A1, 1 bed, 470 sq ft. Active brokerage listing plus primary building page. Private laundry, gym, AC and Wi-Fi advertised included. Parking costs extra, amount unknown; utilities extra. Known subtotal from $1,560 before parking/utilities. Exact unit, floor, rate and move-in date need confirmation; primary page retains older opening wording. Gallery: five source images, including a building promotion, virtually staged interiors/balcony, and the matching Plan A1 floor plan. The promotional image shows an older $1,535 starting price; current listing text advertises from $1,560. Images represent the plan/building, not a confirmed assigned unit.",
       "utilities": "Utilities extra; parking extra with amount unknown.",
       "internet": "Wi-Fi advertised included; confirm terms.",
       "insurance": "unknown separately",
@@ -198,8 +198,15 @@
       "smoking": "Policy unconfirmed; check the original listing.",
       "email": "",
       "applyUrl": "",
-      "photo": "",
-      "extraChargesRequired": true
+      "photo": "https://i8.moxi.onl/img-pr-002332/bgx/cac6a98b3048abb09f1067f6c2ed4f33b50b47cd/1_4_gallery.jpg",
+      "extraChargesRequired": true,
+      "photos": [
+        "https://i8.moxi.onl/img-pr-002332/bgx/cac6a98b3048abb09f1067f6c2ed4f33b50b47cd/1_4_gallery.jpg",
+        "https://i9.moxi.onl/img-pr-002332/bgx/cac6a98b3048abb09f1067f6c2ed4f33b50b47cd/2_4_gallery.jpg",
+        "https://i10.moxi.onl/img-pr-002332/bgx/cac6a98b3048abb09f1067f6c2ed4f33b50b47cd/3_4_gallery.jpg",
+        "https://i11.moxi.onl/img-pr-002332/bgx/cac6a98b3048abb09f1067f6c2ed4f33b50b47cd/4_4_gallery.jpg",
+        "https://i12.moxi.onl/img-pr-002332/bgx/cac6a98b3048abb09f1067f6c2ed4f33b50b47cd/5_4_gallery.jpg"
+      ]
     },
     {
       "url": "https://www.rentfaster.ca/properties/2673-trinity-street-abbotsford-718378",
@@ -773,5 +780,5 @@
     "Abbotsford"
   ],
   "coverageBudgetMax": 1800,
-  "publishedAt": "2026-10-06T20:26:13.589024+00:00"
+  "publishedAt": "2026-10-06T20:51:44.680910+00:00"
 }
