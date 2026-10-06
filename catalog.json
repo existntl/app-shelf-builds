@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T22:20:48.537978+00:00",
+  "generatedAt": "2026-10-06T22:47:33.778478+00:00",
   "apps": [
     {
       "packageName": "com.workhours.invoice",
@@ -55,11 +55,11 @@
     {
       "packageName": "com.reidhill.rentaldeck",
       "name": "Rental Deck",
-      "description": "Adds missing listing galleries, with shared Skyside imagery clearly labeled and #205 availability unconfirmed. Includes Rex, Forme, Yorkson and Sumas galleries. Brookswood image host may block app downloads. Deleted Ezekiel ad marked removed. Full-screen viewing, preloading and refresh fixes retained. Phone verification pending.",
-      "version": "0.4.2",
-      "updatedAt": "2026-10-06T22:20:48.537978+00:00",
-      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.4.2.apk",
-      "sha256": "302858b41eab03c4d6c32d279259a8860a26998f1125eda7dfb73b5ca53c970e",
+      "description": "Checks for feed updates about once a minute while open and requests15-minute background sync (Android may delay). Includes25 researched leads. A free Windows collector checks Ronin, Wiebe and Little Oak every5minutes while the host is available; wider daily research remains supplemental. Not instant or all-site coverage. Original signing identity retained; phone verification pending.",
+      "version": "0.4.3",
+      "updatedAt": "2026-10-06T22:47:33.778478+00:00",
+      "downloadUrl": "https://raw.githubusercontent.com/existntl/app-shelf-builds/main/release-assets/com.reidhill.rentaldeck-0.4.3.apk",
+      "sha256": "3f510d006bc991813c319a2a986beb85c657b9e2791f18cb53b3c9ae1c0e8d7d",
       "featured": true
     }
   ]

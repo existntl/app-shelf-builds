@@ -1,3 +1,7 @@
+## Rental Deck 0.4.3
+
+Foreground feed checks about once a minute;15-minute Android background job requests may be delayed. Free Windows collector checks three public managers every5minutes while signed in and online; daily research covers additional sources. Includes25 leads with unknown costs/availability labeled. No paid API, all-site coverage claim, push alerts or landlord contact.35 host tests and16 Python checks passed; native scheduled run exit0 verified. Original signer retained; phone QA pending. Refresh App Shelf -> Rental Deck -> Update.
+
 ## Rental Deck 0.4.2
 
 Adds 58 gallery links across six previously empty records. 51 images downloaded and decoded; seven Brookswood images load in the source browser but direct downloads return HTTP403, disclosed in-app. Skyside has two shared rendering/promotion images, not verified #205 interiors. Its prior $1,595 quote is no longer visible and current unit availability is unconfirmed. Ezekiel ad deleted; Yorkson corrected to $1,650 and street parking.
