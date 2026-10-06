@@ -66,7 +66,7 @@
       "status": "advertised",
       "source": "Century 21 Coastal / ShowMojo",
       "checkedAt": "2026-10-06",
-      "summary": "Availability header and descriptive text may differ; confirm the move-in date. Self-contained home type and amenities are taken from the manager description. Electricity and water paid by tenant; amounts unconfirmed. Sewer and garbage not charged per ad. Required; cost unconfirmed separately. Smoking/vaping banned indoors and outdoors; eligibility when smoking off-property is unconfirmed. Parking fee remains unconfirmed. Gallery is listing-specific but may include promotional images. Check original listing for complete conditions.",
+      "summary": "Availability header and descriptive text may differ; confirm the move-in date. Self-contained home type and amenities are taken from the manager description. Electricity and water paid by tenant; amounts unconfirmed. Sewer and garbage not charged per ad. Insurance: Required; cost unconfirmed separately. Smoking/vaping banned indoors and outdoors; eligibility when smoking off-property is unconfirmed. Parking fee remains unconfirmed. Gallery is listing-specific but may include promotional images. Check original listing for complete conditions.",
       "utilities": "Electricity and water paid by tenant; amounts unconfirmed. Sewer and garbage not charged per ad.",
       "internet": "Tenant pays; cost unconfirmed separately",
       "insurance": "Required; cost unconfirmed separately",
@@ -1102,8 +1102,8 @@
       "url": "https://roninpropertymanagement.com/rentals/",
       "scope": "Configured public manager inventory; bounded scans, not every rental website.",
       "status": "ok",
-      "lastAttemptAt": "2026-10-06T23:09:37.640248+00:00",
-      "lastSuccessAt": "2026-10-06T23:09:37.640248+00:00",
+      "lastAttemptAt": "2026-10-06T23:14:12.072728+00:00",
+      "lastSuccessAt": "2026-10-06T23:14:12.072728+00:00",
       "message": "ok"
     },
     {
@@ -1113,7 +1113,7 @@
       "url": "https://abbotsfordapartments.com/available-homes-for-rent/",
       "scope": "Manager's current Abbotsford inventory.",
       "status": "partial",
-      "lastAttemptAt": "2026-10-06T23:09:37.640248+00:00",
+      "lastAttemptAt": "2026-10-06T23:14:12.072728+00:00",
       "lastSuccessAt": "",
       "message": "partial; some listing details need review; 1 listings need review"
     },
@@ -1124,8 +1124,8 @@
       "url": "https://littleoakrentals.ca/rental-listings.html",
       "scope": "Configured public manager inventory.",
       "status": "ok",
-      "lastAttemptAt": "2026-10-06T23:09:37.640248+00:00",
-      "lastSuccessAt": "2026-10-06T23:09:37.640248+00:00",
+      "lastAttemptAt": "2026-10-06T23:14:12.072728+00:00",
+      "lastSuccessAt": "2026-10-06T23:14:12.072728+00:00",
       "message": "ok"
     },
     {
@@ -1135,8 +1135,8 @@
       "url": "https://showmojo.com/5f0fc450b1/l",
       "scope": "This manager's inventory only; not all ShowMojo customers.",
       "status": "ok",
-      "lastAttemptAt": "2026-10-06T23:09:37.640248+00:00",
-      "lastSuccessAt": "2026-10-06T23:09:37.640248+00:00",
+      "lastAttemptAt": "2026-10-06T23:14:12.072728+00:00",
+      "lastSuccessAt": "2026-10-06T23:14:12.072728+00:00",
       "message": "ok"
     },
     {
@@ -1146,8 +1146,8 @@
       "url": "https://www.therexliving.com/suites",
       "scope": "One Abbotsford building; starting prices are not individual unit offers.",
       "status": "ok",
-      "lastAttemptAt": "2026-10-06T23:09:37.640248+00:00",
-      "lastSuccessAt": "2026-10-06T23:09:37.640248+00:00",
+      "lastAttemptAt": "2026-10-06T23:14:12.072728+00:00",
+      "lastSuccessAt": "2026-10-06T23:14:12.072728+00:00",
       "message": "ok"
     },
     {
@@ -1270,5 +1270,5 @@
       "message": "Individual listing research only; no recurring inventory collector connected."
     }
   ],
-  "publishedAt": "2026-10-06T23:13:28.495810+00:00"
+  "publishedAt": "2026-10-06T23:15:11.071136+00:00"
 }
