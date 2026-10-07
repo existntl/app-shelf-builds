@@ -1102,8 +1102,8 @@
       "url": "https://roninpropertymanagement.com/rentals/",
       "scope": "Configured public manager inventory; bounded scans, not every rental website.",
       "status": "ok",
-      "lastAttemptAt": "2026-10-07T01:07:06.318584+00:00",
-      "lastSuccessAt": "2026-10-07T01:07:06.318584+00:00",
+      "lastAttemptAt": "2026-10-07T01:12:06.320712+00:00",
+      "lastSuccessAt": "2026-10-07T01:12:06.320712+00:00",
       "message": "ok"
     },
     {
@@ -1113,7 +1113,7 @@
       "url": "https://abbotsfordapartments.com/available-homes-for-rent/",
       "scope": "Manager's current Abbotsford inventory.",
       "status": "partial",
-      "lastAttemptAt": "2026-10-07T01:07:06.318584+00:00",
+      "lastAttemptAt": "2026-10-07T01:12:06.320712+00:00",
       "lastSuccessAt": "2026-10-06T23:17:07.031734+00:00",
       "message": "partial; some listing details need review; 1 listings need review"
     },
@@ -1124,8 +1124,8 @@
       "url": "https://littleoakrentals.ca/rental-listings.html",
       "scope": "Configured public manager inventory.",
       "status": "ok",
-      "lastAttemptAt": "2026-10-07T01:07:06.318584+00:00",
-      "lastSuccessAt": "2026-10-07T01:07:06.318584+00:00",
+      "lastAttemptAt": "2026-10-07T01:12:06.320712+00:00",
+      "lastSuccessAt": "2026-10-07T01:12:06.320712+00:00",
       "message": "ok"
     },
     {
@@ -1135,8 +1135,8 @@
       "url": "https://showmojo.com/5f0fc450b1/l",
       "scope": "This manager's inventory only; not all ShowMojo customers.",
       "status": "ok",
-      "lastAttemptAt": "2026-10-07T01:07:06.318584+00:00",
-      "lastSuccessAt": "2026-10-07T01:07:06.318584+00:00",
+      "lastAttemptAt": "2026-10-07T01:12:06.320712+00:00",
+      "lastSuccessAt": "2026-10-07T01:12:06.320712+00:00",
       "message": "ok"
     },
     {
@@ -1146,8 +1146,8 @@
       "url": "https://www.therexliving.com/suites",
       "scope": "One Abbotsford building; starting prices are not individual unit offers.",
       "status": "ok",
-      "lastAttemptAt": "2026-10-07T01:07:06.318584+00:00",
-      "lastSuccessAt": "2026-10-07T01:07:06.318584+00:00",
+      "lastAttemptAt": "2026-10-07T01:12:06.320712+00:00",
+      "lastSuccessAt": "2026-10-07T01:12:06.320712+00:00",
       "message": "ok"
     },
     {
@@ -1270,5 +1270,5 @@
       "message": "Individual listing research only; no recurring inventory collector connected."
     }
   ],
-  "publishedAt": "2026-10-07T01:08:05.349315+00:00"
+  "publishedAt": "2026-10-07T01:13:05.601225+00:00"
 }
