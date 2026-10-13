@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12",
-  "coverage": "October 12 supplemental research: new REW Eastleigh, Vybe Onyx and Craigslist Burnett leads; undated Langley carriage-home page and Ronin Genesis rechecked. Signed-in Facebook coach-home detail accessible, but over budget. Broader portal searches had incomplete or stale indexing; no exhaustive coverage or confirmed December 1 matches. Only freshly opened individual listings receive new checked dates. Five-manager background collector remains disabled; major portals and Facebook are not connected automatic feeds.",
+  "generatedAt": "2026-10-13",
+  "coverage": "October 13 supplemental research: one new Facebook Langley Township basement fallback, utilities and driveway parking advertised included; Marshall Grove East individual page and gallery rechecked. A Murrayville coach home is over budget. Facebook signed-in search and two rental details accessible, not an automatic feed. Craigslist, Rentals.ca, REW, Zumper/PadMapper, Kijiji and Wiebe reviewed within a bounded pass; stale indexing and failed individual requests limit coverage. liv.rent returned403. December 1 is unconfirmed. Five-manager background collector remains disabled. No exhaustive all-site coverage. Unvisited records retain their actual check dates.",
   "listings": [
     {
       "url": "https://roninpropertymanagement.com/rental/423-20360-logan-avenue-langley/",
@@ -148,16 +148,16 @@
       "gym": "unknown",
       "status": "advertised",
       "source": "Wiebe property manager",
-      "checkedAt": "2026-10-07",
+      "checkedAt": "2026-10-13",
       "summary": "Fourth-floor east-facing 1 bedroom, 725 sq ft; private laundry and one underground parking stall included. Hot water included; other utilities unconfirmed. $500 first-month incentive does not reduce recurring rent. No smoking; off-property smoker eligibility unconfirmed. December 1 unconfirmed. Photos described as exact suite.",
       "utilities": "Hot water included; other utility inclusions and costs unconfirmed.",
       "internet": "Inclusion and cost unconfirmed separately",
       "insurance": "Requirement and cost unconfirmed separately",
-      "availability": "December 1 availability unconfirmed unless explicitly dated below.",
+      "availability": "Advertised available; no specific move-in date. December 1, 2026 unconfirmed.",
       "availableFrom": "",
       "smoking": "No smoking advertised; policy scope unconfirmed.",
       "email": "rentals@wiebeproperties.com",
-      "applyUrl": "",
+      "applyUrl": "https://abbotsfordapartments.com/rental-application/?building=Marshall%20Grove%20East%20Apartments&unit=Marshall%20Grove%20East%20%E2%80%93%201BD/1BA&bedrooms=1&bathrooms=1&price=$1600%20-%20$1900&availability",
       "photo": "https://abbotsfordapartments.com/wp-content/uploads/2025/06/Marshall-East-1500x953.png",
       "extraChargesRequired": false,
       "photos": [
@@ -1657,6 +1657,48 @@
       "photo": "",
       "photos": [],
       "extraChargesRequired": false
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1602721918215949/",
+      "title": "Willoughby Way basement suite",
+      "address": "2244 Willoughby Way (advertised address), Langley Township",
+      "city": "Langley Township",
+      "type": "Basement",
+      "rent": 1750,
+      "beds": 2,
+      "size": 950,
+      "parkingCost": 0,
+      "utilityCost": 0,
+      "laundry": "yes",
+      "parking": "yes",
+      "gym": "unknown",
+      "status": "advertised",
+      "source": "Facebook Marketplace (manual browser check)",
+      "checkedAt": "2026-10-13",
+      "summary": "Lower-priority basement fallback. Two bedrooms, 950 sq ft, private washer/dryer and one driveway space; utilities included per ad. Known recurring subtotal $1750. Exact utility coverage, internet, insurance and smoking policy unconfirmed. Advertised address is 2244 Willoughby Way, Langley Township; confirm street number before viewing. Available October 15; December 1 unconfirmed.",
+      "utilities": "Utilities included per description; individual services not itemized.",
+      "internet": "Inclusion and cost unconfirmed separately.",
+      "insurance": "Requirement and cost unconfirmed separately.",
+      "availability": "October 15, 2026 advertised; December 1, 2026 unconfirmed.",
+      "availableFrom": "2026-10-15",
+      "smoking": "Policy unconfirmed.",
+      "email": "",
+      "applyUrl": "",
+      "extraChargesRequired": false,
+      "photos": [
+        "https://scontent.fcxh3-1.fna.fbcdn.net/v/t39.84726-6/837838034_1621665846221412_3047157093601989479_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=s9IV1bbz14MQ7kNvwGY6tHO&_nc_oc=AdrdcRMD4YroQGqFO-4LZz8JedXLz0sNsQuEdFgvi1EKjL4PRgSjR-Nneo2dgdANLMw&_nc_zt=14&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQM3v0W9Km_7A2pE355GDqGCqGEFvLNyvCrEmnL0QUJAVQ&oe=6AD43EE1",
+        "https://scontent.fcxh3-1.fna.fbcdn.net/v/t45.5328-4/835450324_29051350241163867_1686089456267884033_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=tx3dkO0t_RUQ7kNvwHxc5_P&_nc_oc=Adq1yjUUoyq8kLcEY6zgGsjPOjPLKzNYnNfnl73YmCOF3o1atZjrz_In5rnLup5Yis8&_nc_zt=23&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQM1BeL-C4PFzJc38T6NHmJ1cyiZc1LgBerKn8aiSFQgcA&oe=6AD439F5",
+        "https://scontent.fcxh3-1.fna.fbcdn.net/v/t45.5328-4/836000259_1738301140731498_7916542706167370536_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=TsSC55UryXwQ7kNvwFsjrIf&_nc_oc=AdqffPZDbiUtZGZLft4EM_1k8gKLslTMvWuv4uj5J5rCQF48fcFA8VDWPJXHS66j_Pw&_nc_zt=23&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQNbI2elOLji1W93DbgAdpmPcd9gSKUMcZvVskaNIhWrFw&oe=6AD41E4F",
+        "https://scontent.fcxh3-1.fna.fbcdn.net/v/t45.5328-4/840520959_1035196562863796_4740837453442668175_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=VfhqGpMtzAoQ7kNvwHNukNL&_nc_oc=AdomhsG00R94NPh6o5BwCPyaLoGS4di5RlQVwwdiPMNt6gvbn-D9yGG9YbgZaIgaqpI&_nc_zt=23&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQMDg3Me6iYu4e2gY0rm0OdTIYNqmo7vKNWyOkx_2T78Uw&oe=6AD4307B",
+        "https://scontent.fcxh2-1.fna.fbcdn.net/v/t45.5328-4/837461193_1818120109365667_6681852384647556763_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=5vTxjTe3Z5gQ7kNvwGueHAP&_nc_oc=AdpcYvIq_rRTOQyN4umohUtbrvWyctlqTrTaJSyXkkspGTVy7JhiPHYDAkwXTvvMKlc&_nc_zt=23&_nc_ht=scontent.fcxh2-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQMIk7EyRsNRvtLf4XG_oLsNdd-GHe3UYQtkTU8B8kV9Eg&oe=6AD4367D",
+        "https://scontent.fcxh3-1.fna.fbcdn.net/v/t45.5328-4/835642002_1295405905986173_8721970743170287768_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=TdHWXtTyG0EQ7kNvwEBFciq&_nc_oc=Ado-9yYEQgHGZQDbFPUIWchJ041v-RLdU2e_fBXfo6h37M6nd47AhfF8nFmc0PacOeg&_nc_zt=23&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQMagIFezFE1konQ27e1uXMSOC9CBvRACMJuQjPjO93jKA&oe=6AD43A3A",
+        "https://scontent.fcxh3-1.fna.fbcdn.net/v/t45.5328-4/834019419_936752435870604_7085367008829142738_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=diLYcGFNTlEQ7kNvwEs1fRJ&_nc_oc=AdqRou9WAIUaRM2nbM2hKW8sR-BNZ5kcaRSmDiWkEyfMsp6pWb_ibjFhgSiseAGSK9I&_nc_zt=23&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQPM2d-yUagtwkxotSkB_UXYUmFbjdutIYVctQH4eImaLg&oe=6AD42E60",
+        "https://scontent.fcxh3-1.fna.fbcdn.net/v/t45.5328-4/840023575_1120250410757344_1954833702681721503_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=8XavHjLvxx8Q7kNvwFFOQou&_nc_oc=AdqSr30gdOGwGQvpRCvBrqBTWquKe_lUpqOcBdLuwDnJhYrNTo2PQsEIt8SRT0ofmeY&_nc_zt=23&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQNGesx4Jl8n_QyI-_GkAu6tQI92sRbn6pbHoMXvAPs4Sw&oe=6AD416EB",
+        "https://scontent.fcxh3-1.fna.fbcdn.net/v/t45.5328-4/834948205_2296303574603860_223362136885546169_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=qRJl0yekEyQQ7kNvwE4YI1-&_nc_oc=AdppVoPjLSbQ0MrgHC7Wg4NpYsesMi08j6jPCUOSa-zJAGlatVBhjRgxhqmRhGTZRis&_nc_zt=23&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQNDqywiD8C_kGxrPRwrgERTtXSyTvQ76_SksVoNHxygPA&oe=6AD415C3",
+        "https://scontent.fcxh3-1.fna.fbcdn.net/v/t45.5328-4/835530883_2298240747634351_7585550513293518917_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=NWGLGnBk6YUQ7kNvwGFQjQf&_nc_oc=AdqPG41GMpkZyOT6xrOg_GYCn5OyrIMj4hXJkkEEj5jgvE5IH93ahZ5IKf8wZgRMkPU&_nc_zt=23&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQNCrf06vaEsG2lAoqPGEg7RiKrmpPaCf_RrT6pq9bo3Ew&oe=6AD4455B",
+        "https://scontent.fcxh3-1.fna.fbcdn.net/v/t45.5328-4/841261314_1428856509202009_7295688887843205331_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=b7iLSMcff_AQ7kNvwGg8QiL&_nc_oc=AdptHU46f4_iIjwEJXIA0Ar17ICawDrlVF30VhjJvLroqGA8UK7KLjM3L7JQEn6yq9M&_nc_zt=23&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQMZjHYMzIb5bCA7BNI1O7DFyrG9wxBJ9NJaCSXuwyqmqQ&oe=6AD43DA1"
+      ],
+      "photo": "https://scontent.fcxh3-1.fna.fbcdn.net/v/t39.84726-6/837838034_1621665846221412_3047157093601989479_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=s9IV1bbz14MQ7kNvwGY6tHO&_nc_oc=AdrdcRMD4YroQGqFO-4LZz8JedXLz0sNsQuEdFgvi1EKjL4PRgSjR-Nneo2dgdANLMw&_nc_zt=14&_nc_ht=scontent.fcxh3-1.fna&_nc_gid=B5I-PjbX9huN_oDgoRDn6w&_nc_ss=7b2a8&oh=00_AQM3v0W9Km_7A2pE355GDqGCqGEFvLNyvCrEmnL0QUJAVQ&oe=6AD43EE1"
     }
   ],
   "completeSnapshot": true,
@@ -1849,5 +1891,5 @@
       "message": "Individual listing research only; no recurring inventory collector connected."
     }
   ],
-  "publishedAt": "2026-10-12T16:08:47.020291+00:00"
+  "publishedAt": "2026-10-13T16:09:23.766976+00:00"
 }
