@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedAt": "2026-10-14",
-  "coverage": "October 14 bounded supplemental search: Facebook signed-in search and two individual ads accessible; new Abbotsford apartment description explicitly says December 1, with November 30 header discrepancy. New Langley Parkside condo is $1800 plus electricity, above all-in target. Park Suites and The Hub primary pages and complete similar-suite galleries refreshed. Other records retain actual prior check dates. Public Craigslist, Rentals.ca, REW, Zumper/PadMapper, Kijiji and manager searches were incomplete; expired results excluded. liv.rent direct access returned 403; Kijiji/index searches yielded no newly verified eligible home. No exhaustive all-site feed. Five-manager collector remains disabled by user request; Facebook and major portals are not connected background feeds.",
+  "coverage": "Listing updates have stopped as of October 14, 2026. Daily research and background collection are inactive. This is an archived shortlist, not a current availability feed. Each listing retains its last actual source-check date; prices and availability may have changed. Source coverage remains incomplete.",
   "listings": [
     {
       "url": "https://roninpropertymanagement.com/rental/423-20360-logan-avenue-langley/",
@@ -1976,5 +1976,5 @@
       "message": "Individual listing research only; no recurring inventory collector connected."
     }
   ],
-  "publishedAt": "2026-10-14T16:07:51.217608+00:00"
+  "publishedAt": "2026-10-15T01:57:33.638998+00:00"
 }
